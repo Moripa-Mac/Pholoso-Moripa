@@ -32,7 +32,7 @@ Impact of seasonal variations and ontogenic shifts on gut microbiota composition
 and diversity of *Oreochromis mossambicus*.
 """)
 
-st.subheader("🧪 Skills & Tools")
+st.subheader("Skills & Tools")
 st.markdown("""
 - Python  
 - R  
@@ -43,3 +43,4 @@ st.markdown("""
 
 st.subheader("Contact")
 st.write("Email: pholosomoripa6@email.com")
+
